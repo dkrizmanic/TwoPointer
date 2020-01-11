@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textView_gameName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/size_20"
+        android:layout_marginTop="@dimen/size_10"
+        android:textSize="@dimen/size_35"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Zabava" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_gameDate"
+        tools:text="29.9.2019"
+        app:layout_constraintTop_toBottomOf="@id/textView_gameName"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="@dimen/size_20"
+        android:textSize="@dimen/size_20"/>
+
+    <View
+        android:id="@+id/cityDivider"
+        android:layout_width="match_parent"
+        android:layout_height="2sp"
+        android:layout_marginStart="@dimen/size_20"
+        android:layout_marginTop="@dimen/size_10"
+        android:layout_marginEnd="@dimen/size_20"
+        android:background="@color/colorAccent"
+        app:layout_constraintTop_toBottomOf="@id/textView_gameDate" />
+</androidx.constraintlayout.widget.ConstraintLayout>

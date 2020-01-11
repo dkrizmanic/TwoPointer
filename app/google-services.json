@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922022065694",
+    "firebase_url": "https://twopointer-87cf7.firebaseio.com",
+    "project_id": "twopointer-87cf7",
+    "storage_bucket": "twopointer-87cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922022065694:android:fe0ffd979c8f1ff8c2a00f",
+        "android_client_info": {
+          "package_name": "com.example.krizmanic.twopointer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922022065694-k8sfuuv004pvev3mrngq4vp67mvu1vpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krizmanic.twopointer",
+            "certificate_hash": "f43f702e9311c54f34067bb42f6ffeee684bf0a7"
+          }
+        },
+        {
+          "client_id": "922022065694-0nugb162cuvlqg1havfds4oh163n8dg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqkP6s-zZXiCduM108GjTfwrOHYggV7cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922022065694-0nugb162cuvlqg1havfds4oh163n8dg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

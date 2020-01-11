@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TwoPointer</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="enter_email">Enter email…</string>
+    <string name="enter_username">Enter username…</string>
+    <string name="enter_password">Enter password…</string>
+    <string name="register">Register</string>
+    <string name="if_you_already_have_an_account_click_here">If you already have an account, click here</string>
+    <string name="add_new_game">Add new game</string>
+    <string name="organise">Organize a basket game</string>
+    <string name="gameName">Enter name of game</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="address">Enter address</string>
+    <string name="date">Enter date</string>
+    <string name="time">Enter time</string>
+    <string name="add">Add</string>
+    <string name="entry">Entry</string>
+    <string name="remove_entry">Remove entry</string>
+</resources>
